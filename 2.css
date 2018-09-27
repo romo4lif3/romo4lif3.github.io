@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    background: black;
+    color: white;
+    width: 800px;
+    padding: 30px;
+    margin-bottom: 1%;
+    text-align: center;
+    /* display: inline-block; */
+}
+NAV {
+    background: rgb(146, 43, 43);
+    color: white;
+    width: 800px;
+    padding: 30px;
+    margin-bottom: 1%;
+    text-align: center;
+    /* display: inline-block */
+}
+aside {
+    background: rgb(43, 88, 146);
+    color: white;
+    width: 400px;
+    padding: 100px;
+    margin-bottom: -1%;
+    text-align: center;
+    margin-left: 30%
+}
+section {
+    background: rgb(146, 43, 107);
+    color: rgb(255, 255, 255);
+    width: 400px;
+    padding: 100px;
+    margin-bottom: 2%;
+    text-align: center;
+    margin-top: -16%;
+    margin-left: 0%;
+}
+article {
+    background: cyan;
+    color: black;
+    width: 200px;
+    padding: 60px;
+    text-align: center;
+    margin-top: -14%;
+    margin-left: 8%;
+    z-index: 5;
+}
+footer {
+    background: green;
+    color: purple;
+    width: 800px;
+    padding: 30px;
+    text-align: center;
+    margin-top: 3%
+}
